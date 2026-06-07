@@ -231,8 +231,39 @@
 			"typeName": "shape"
 		},
 		{
+			"x": 833.2454406312683,
+			"y": 955.3560373176056,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:2subIzV9kiDLe0BAGSxPs",
+			"type": "draw",
+			"props": {
+				"segments": [
+					{
+						"type": "free",
+						"path": "AAAAAAAAAAAAAAA/TUAAAAAAdkIAAAAAcUIAAAAATUAAAAAAdkIAAAAATUAAAAAATUAAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAAABSvAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAATUAAAAAASDwAAAAATUAAAAAAUjwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAAABIvAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDxSvAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAAUjwAAAAAAABIvAAASDwAAAAAUjwAAAAASDwAAAAATUAAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUAAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAAABIPAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDxSPAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAASDwAAAAAUjwAAAAATUBIPAAASDwAAAAAUjwAAAAAUjwAAAAA"
+					}
+				],
+				"color": "light-green",
+				"fill": "none",
+				"dash": "draw",
+				"size": "s",
+				"isComplete": true,
+				"isClosed": false,
+				"isPen": false,
+				"scale": 1,
+				"scaleX": 1,
+				"scaleY": 1
+			},
+			"parentId": "page:page",
+			"index": "aWH88Y6V",
+			"typeName": "shape"
+		},
+		{
 			"x": 61.36421984958063,
-			"y": 21.779160076951772,
+			"y": -390.8487705972284,
 			"z": 0.7440116802040082,
 			"meta": {},
 			"id": "camera:page:page",
@@ -267,6 +298,96 @@
 			},
 			"parentId": "page:page",
 			"index": "aHBI4YjV",
+			"typeName": "shape"
+		},
+		{
+			"x": 38.6342123060522,
+			"y": 928.1525342434213,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:K29m52s9JvFzm4IYkxbrT",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "s",
+				"w": 943.4000244140625,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Reinforcement Learning - Not input data given still machine learns on itself using reward method"
+								}
+							]
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aVIQrZwV",
+			"typeName": "shape"
+		},
+		{
+			"x": 23.58069954967099,
+			"y": 829.229347871758,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:ErIfOw9b2GGI_8iKYp78H",
+			"type": "text",
+			"props": {
+				"color": "grey",
+				"size": "s",
+				"w": 1780.2000732421875,
+				"font": "draw",
+				"textAlign": "start",
+				"autoSize": true,
+				"scale": 1,
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "Semisuperwised - taking some of man power and rest is done my ML(eg. Google photos segregating each unique face and we just have to put label on that face like mother , father etc)"
+								}
+							]
+						},
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							}
+						}
+					]
+				}
+			},
+			"parentId": "page:page",
+			"index": "aUETdvLV",
 			"typeName": "shape"
 		},
 		{
@@ -363,12 +484,10 @@
 			"typeName": "shape"
 		},
 		{
-			"editingShapeId": "shape:7pshKy4PbJp0BP_npQwfX",
+			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:7pshKy4PbJp0BP_npQwfX"
-			],
-			"hoveredShapeId": "shape:7pshKy4PbJp0BP_npQwfX",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -608,7 +727,7 @@
 							"content": [
 								{
 									"type": "text",
-									"text": "\t\t\tAssociation rule based learning - "
+									"text": "\t\t\tAssociation rule based learning - pattern between inputs like most people buy egg with milk"
 								}
 							]
 						},
@@ -898,12 +1017,12 @@
 			"opacityForNextShape": 1,
 			"stylesForNextShape": {
 				"tldraw:size": "s",
-				"tldraw:color": "grey"
+				"tldraw:color": "light-green"
 			},
 			"brush": null,
 			"scribbles": [],
 			"cursor": {
-				"type": "default",
+				"type": "cross",
 				"rotation": 0
 			},
 			"isFocusMode": false,
@@ -913,7 +1032,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 842.4000244140625,
+				"w": 867.2000122070312,
 				"h": 702.4000244140625
 			},
 			"insets": [
