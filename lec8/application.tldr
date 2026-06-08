@@ -108,7 +108,7 @@
 			"selectedShapeIds": [
 				"shape:HBZUltk92kjsEapJDhDhQ"
 			],
-			"hoveredShapeId": "shape:HBZUltk92kjsEapJDhDhQ",
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -118,7 +118,7 @@
 			"typeName": "instance_page_state"
 		},
 		{
-			"x": -353,
+			"x": -4,
 			"y": 32,
 			"z": 1,
 			"meta": {},
@@ -264,7 +264,13 @@
 											"type": "paragraph",
 											"attrs": {
 												"dir": "auto"
-											}
+											},
+											"content": [
+												{
+													"type": "text",
+													"text": "recommendation on social media"
+												}
+											]
 										}
 									]
 								}
