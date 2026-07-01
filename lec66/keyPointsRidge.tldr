@@ -188,12 +188,58 @@
 			"typeName": "shape"
 		},
 		{
-			"x": 364.3172620598936,
-			"y": -1461.934083083731,
-			"z": 0.35325431139615443,
+			"x": 882.7677116851148,
+			"y": -2185.815252664426,
+			"z": 0.22346214295602673,
 			"meta": {},
 			"id": "camera:page:page",
 			"typeName": "camera"
+		},
+		{
+			"x": 333.7680622386184,
+			"y": 3138.4804951444507,
+			"rotation": 0,
+			"isLocked": false,
+			"opacity": 1,
+			"meta": {},
+			"id": "shape:9aqQ_9V3V-Yj7ckeFHMfG",
+			"type": "note",
+			"props": {
+				"color": "black",
+				"richText": {
+					"type": "doc",
+					"attrs": {
+						"dir": "auto"
+					},
+					"content": [
+						{
+							"type": "paragraph",
+							"attrs": {
+								"dir": "auto"
+							},
+							"content": [
+								{
+									"type": "text",
+									"text": "practical Tip:- apply ridge when input cols are >= 2"
+								}
+							]
+						}
+					]
+				},
+				"size": "m",
+				"font": "draw",
+				"align": "middle",
+				"verticalAlign": "middle",
+				"labelColor": "black",
+				"growY": 0,
+				"fontSizeAdjustment": 1,
+				"url": "",
+				"scale": 1,
+				"textLastEditedBy": "1m2_bFtzEYkvAziKCho6h"
+			},
+			"parentId": "page:page",
+			"index": "aVNT6",
+			"typeName": "shape"
 		},
 		{
 			"x": 761.1014839081357,
@@ -484,10 +530,8 @@
 		{
 			"editingShapeId": null,
 			"croppingShapeId": null,
-			"selectedShapeIds": [
-				"shape:o7-2XbK-BRzbuq1EIWW6t"
-			],
-			"hoveredShapeId": "shape:o7-2XbK-BRzbuq1EIWW6t",
+			"selectedShapeIds": [],
+			"hoveredShapeId": null,
 			"erasingShapeIds": [],
 			"hintingShapeIds": [],
 			"focusedGroupId": null,
@@ -1277,7 +1321,7 @@
 			"screenBounds": {
 				"x": 0,
 				"y": 0,
-				"w": 592,
+				"w": 1232,
 				"h": 566
 			},
 			"insets": [
